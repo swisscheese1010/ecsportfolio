@@ -8,7 +8,6 @@ My name is Franco Jeffries I enjoy by old records (EX: Greatful dead,Fog Hat,Jef
 - Wizard
 ## Certifications: 
 - Food Handlers
-- giggler 
 ## Titles: 
 - Capotuous team member 
 - Soomthie Smasher 
@@ -16,6 +15,5 @@ My name is Franco Jeffries I enjoy by old records (EX: Greatful dead,Fog Hat,Jef
 ## Orgnaizations: 
 - Capoutous
 - Gulls baseball team
-- Maggie Ass 44501
 ## Carrear/ Student Goals
 - I plan on going into war jounralism after wattending a university in new  zeland on scholorship. Hopefully I am able to retire and afterwords I want to own my own cafe on the California beach side based out of a vintage volkswagon bus. 
