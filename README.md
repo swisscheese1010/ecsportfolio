@@ -1,4 +1,7 @@
-## Franco Ross Jeffries, Junior, Peroid: 3B
+
+## Franco Ross Jeffries, Junior, Pero
+![Uploading welcome.png…]()
+id: 3B
 My name is Franco Jeffries I enjoy by old records (EX: Greatful dead,Fog Hat,Jefferson Air Plane, etc), working on my vintage cars, and hanging out with my girlfriend. I have a job currently at Caputos as a team member and I am also a member of the Gulls baseball team. 
 
 ## Skills List:
