@@ -22,32 +22,32 @@ My name is Franco Jeffries I enjoy by old records (EX: Greatful dead,Fog Hat,Jef
 ## Spotlight 
 jerry garcia is one of the key member of the grateful dead and is one of insperations for music and my love for jam band music 
 ## Timeline 
-1965	6/18	Phil joins the Warlocks on bass, finalizing the future Grateful Dead lineup
-1965	11/03	Emergency Crew   Demo Tape by Warlocks
-1965	12/01	Acid Tests organizer Ken Kesey enlists Warlocks as house band
-1965	12/0?	Grateful Dead founded in San Francisco
-1965	12/04	San Jose Acid Test first Grateful Dead show
-1965	12/10	The Fillmore's first Dead show, produced by Bill Graham
-1966	1/07	The Matrix venue's first Dead show
-1966	1/21	Trips Festival
-1966	2/11	Owsley meets Grateful Dead formally at The Fillmore and soon becomes soundman
-1966	2/??	Hunter writes his first lyrics for Grateful Dead
-1966	5/19	Avalon Ballroom venue's first Dead show
-1966	5/27	Family Dog organizer's first Dead show
-1966	6/??	Soundman Dan Healy meets Grateful Dead at The Fillmore
-1966	7/??	Don't Ease Me In/Stealin' first single by Grateful Dead
-1966	7/29	Vancouver first Dead show outside US
-1966	9/04	The Fillmore's first headline by Grateful Dead
-1966	9/??	710 Ashbury Street becomes the band's residence
-1966	10/06	Love Pageant Rally protests illegalization of LSD in California
-1966	10/07	Winterland Arena venue's first Dead show
-1966	10/??	Owsley leaves soundman position with Grateful Dead
-1966	12/31	The Fillmore's first New Years Eve Dead show
-1966		MGM signs Grateful Dead to record label
-1967	1/14	The Great Human Be-In at Polo Field
-1967	3/17	The Grateful Dead   LP
-1967	6/01	Tompkins Square Park first East Coast Dead show
-1967	6/18	Monterey Pop Festival
+- 1965	6/18	Phil joins the Warlocks on bass, finalizing the future Grateful Dead lineup
+- 1965	11/03	Emergency Crew   Demo Tape by Warlocks
+- 1965	12/01	Acid Tests organizer Ken Kesey enlists Warlocks as house band
+- 1965	12/0?	Grateful Dead founded in San Francisco
+- 1965	12/04	San Jose Acid Test first Grateful Dead show
+- 1965	12/10	The Fillmore's first Dead show, produced by Bill Graham
+- 1966	1/07	The Matrix venue's first Dead show
+- 1966	1/21	Trips Festival
+- 1966	2/11	Owsley meets Grateful Dead formally at The Fillmore and soon becomes soundman
+- 1966	2/??	Hunter writes his first lyrics for Grateful Dead
+- 1966	5/19	Avalon Ballroom venue's first Dead show
+- 1966	5/27	Family Dog organizer's first Dead show
+ - 1966	6/??	Soundman Dan Healy meets Grateful Dead at The Fillmore
+- 1966	7/??	Don't Ease Me In/Stealin' first single by Grateful Dead
+- 1966	7/29	Vancouver first Dead show outside US
+- 1966	9/04	The Fillmore's first headline by Grateful Dead
+- 1966	9/??	710 Ashbury Street becomes the band's residence
+- 1966	10/06	Love Pageant Rally protests illegalization of LSD in California
+- 1966	10/07	Winterland Arena venue's first Dead show
+- 1966	10/??	Owsley leaves soundman position with Grateful Dead
+- 1966	12/31	The Fillmore's first New Years Eve Dead show
+- 1966		MGM signs Grateful Dead to record label
+- 1967	1/14	The Great Human Be-In at Polo Field
+ -1967	3/17	The Grateful Dead   LP
+  - 1967	6/01	Tompkins Square Park first East Coast Dead show
+ - 1967	6/18	Monterey Pop Festival
 1967	6/~	Summer of Love
 1967	8/06	Expo 67
 1967	8/??	The Hippie Temptation   TV Special
