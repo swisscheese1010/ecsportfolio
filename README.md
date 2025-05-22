@@ -11,7 +11,9 @@ My name is Franco Jeffries I enjoy by old records (EX: Greatful dead,Fog Hat,Jef
 - Wizard
 ## Certifications: 
 - Food Handlers
-- Programing 
+- Programing
+- Typying master(the gulrs love it)
+ ![Image Alt](https://github.com/swisscheese1010/ecsportfolio/blob/main/images/typing.png). 
 ## Titles: 
 - Capotuous team member 
 - Soomthie Smasher 
