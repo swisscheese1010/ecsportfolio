@@ -1,5 +1,5 @@
 ## Franco Ross Jeffries, Junior, Peroid: 3B
-## Contact me at my school email: 
+## Contact me at my school email: 9723907@graniteschools.org
 ![Image Alt](https://github.com/swisscheese1010/ecsportfolio/blob/c7b531b70b7208ec2cec3b75778e60162df3a3a1/images/welcome.png).
 
 My name is Franco Jeffries I enjoy by old records (EX: Greatful dead,Fog Hat,Jefferson Air Plane, etc), working on my vintage cars, and hanging out with my girlfriend. I have a job currently at Caputos as a team member and I am also a member of the Gulls baseball team. 
@@ -65,6 +65,9 @@ jerry garcia is one of the key member of the grateful dead and is one of inspera
 ## Projects 
 
 ## Space Game 
+OOP graphics game spotlighting objects for user interaction
+
+
 
 ## Shapes 
 
