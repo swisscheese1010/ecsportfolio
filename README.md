@@ -1,4 +1,5 @@
 ## Franco Ross Jeffries, Junior, Peroid: 3B
+## Contact me at my school email: 
 ![Image Alt](https://github.com/swisscheese1010/ecsportfolio/blob/c7b531b70b7208ec2cec3b75778e60162df3a3a1/images/welcome.png).
 
 My name is Franco Jeffries I enjoy by old records (EX: Greatful dead,Fog Hat,Jefferson Air Plane, etc), working on my vintage cars, and hanging out with my girlfriend. I have a job currently at Caputos as a team member and I am also a member of the Gulls baseball team. 
@@ -10,6 +11,7 @@ My name is Franco Jeffries I enjoy by old records (EX: Greatful dead,Fog Hat,Jef
 - Wizard
 ## Certifications: 
 - Food Handlers
+- Programing 
 ## Titles: 
 - Capotuous team member 
 - Soomthie Smasher 
@@ -59,3 +61,11 @@ jerry garcia is one of the key member of the grateful dead and is one of inspera
 - 1968	2/14	Carousel Ballroom opens with the Grateful Dead
 - 1968	3/??	Who's Who In America lists Grateful Dead
 - 1968	3/??	Grateful Dead move out of 710 Ashbury in San Francisco
+
+## Projects 
+
+## Space Game 
+
+## Shapes 
+
+## Zoog!
