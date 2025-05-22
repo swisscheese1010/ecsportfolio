@@ -63,12 +63,14 @@ jerry garcia is one of the key member of the grateful dead and is one of inspera
 - 1968	3/??	Grateful Dead move out of 710 Ashbury in San Francisco
 
 ## Projects 
-
 ## Space Game 
 OOP graphics game spotlighting objects for user interaction
-
-
+![Image Alt](https://github.com/swisscheese1010/ecsportfolio/blob/main/images/Space.png).
 
 ## Shapes 
+Multiple diffrent graphics of shapes we made in computer programming.
+![Image Alt](https://github.com/swisscheese1010/ecsportfolio/blob/main/images/Shapes.png).
 
 ## Zoog!
+if you look at it you will have a seziure dont look at it for to looong:}
+![Image Alt](https://github.com/swisscheese1010/ecsportfolio/blob/main/images/zoog.png).
